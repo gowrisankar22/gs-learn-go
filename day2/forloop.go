@@ -30,6 +30,9 @@ func main() {
 	//
 	//}
 
+	// i+=2 // i = i+2
+	//i*=2 // i = i*2
+
 	args := os.Args
 	for _, v := range args {
 		//fmt.Println(i,v)
