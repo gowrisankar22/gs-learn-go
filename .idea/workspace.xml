@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a533df5-6daa-4dee-81eb-0a4cf581f1b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day3/copyslice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/lencap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/slice5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filefinder/filefinder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filefinder/files/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filefinder/files/b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filefinder/files/c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filefinder/files/d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filefinder/files/e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/copyslice.go" beforeDir="false" afterPath="$PROJECT_DIR$/day3/copyslice.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +49,12 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/gowrisankar22/gs-learn-go/day3 (3)">
+  <component name="RunManager" selected="Go Build.go build github.com/gowrisankar22/gs-learn-go/filefinder">
     <configuration name="go build github.com/gowrisankar22/gs-learn-go/day3 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gs-learn-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/day3/lencap.go" />
-      <package value="github.com/gowrisankar22/gs-learn-go/day3" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build github.com/gowrisankar22/gs-learn-go/day3 (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gs-learn-go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/day3/slice1.go" />
       <package value="github.com/gowrisankar22/gs-learn-go/day3" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
@@ -91,13 +86,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build github.com/gowrisankar22/gs-learn-go/filefinder" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gs-learn-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/filefinder/filefinder.go" />
+      <package value="github.com/gowrisankar22/gs-learn-go/filefinder" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/filefinder" />
         <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day3 (3)" />
         <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day3 (1)" />
         <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day3" />
         <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day3 (5)" />
-        <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day3 (2)" />
       </list>
     </recent_temporary>
   </component>
