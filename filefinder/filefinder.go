@@ -26,7 +26,11 @@ func main()  {
 		if v.Size() == 0 {
 			filesss = append(filesss,v.Name()...)
 		}
-		err = ioutil.WriteFile("hello.txt",filesss,666)
+		err = ioutil.WriteFile(
+			"hello.txt",
+			filesss,
+			666,
+		)
 		if err != nil{
 			log.Fatal(err)
 		}
