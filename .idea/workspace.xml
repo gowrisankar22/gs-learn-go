@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a533df5-6daa-4dee-81eb-0a4cf581f1b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day4/finalmap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/map1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/map2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/map3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/struc1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/struc2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/struct3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/struct4.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +46,7 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/gowrisankar22/gs-learn-go/day4 (2)">
-    <configuration name="go build github.com/gowrisankar22/gs-learn-go/day3 (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gs-learn-go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/day3/copyslice.go" />
-      <package value="github.com/gowrisankar22/gs-learn-go/day3" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build github.com/gowrisankar22/gs-learn-go/day4 (5)">
     <configuration name="go build github.com/gowrisankar22/gs-learn-go/day4 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gs-learn-go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -74,31 +65,40 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/gowrisankar22/gs-learn-go/day4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/gowrisankar22/gs-learn-go/day4 (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gs-learn-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/day4/map1.go" />
+      <filePath value="$PROJECT_DIR$/day4/struc1.go" />
       <package value="github.com/gowrisankar22/gs-learn-go/day4" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/gowrisankar22/gs-learn-go/filefinder" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/gowrisankar22/gs-learn-go/day4 (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gs-learn-go" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/filefinder/filefinder.go" />
-      <package value="github.com/gowrisankar22/gs-learn-go/filefinder" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day4/struc2.go" />
+      <package value="github.com/gowrisankar22/gs-learn-go/day4" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/gowrisankar22/gs-learn-go/day4 (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gs-learn-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day4/struct3.go" />
+      <package value="github.com/gowrisankar22/gs-learn-go/day4" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day4 (5)" />
+        <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day4 (4)" />
+        <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day4 (3)" />
         <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day4 (2)" />
         <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day4 (1)" />
-        <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day4" />
-        <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/filefinder" />
-        <item itemvalue="Go Build.go build github.com/gowrisankar22/gs-learn-go/day3 (3)" />
       </list>
     </recent_temporary>
   </component>
